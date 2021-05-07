@@ -2463,7 +2463,16 @@
       "ids": {},
       "registry_name": "procedure_add_points",
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
       }
     },
     {

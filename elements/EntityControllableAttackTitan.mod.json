@@ -4,13 +4,13 @@
   "definition": {
     "mobName": "Attack Titan",
     "mobLabel": "",
-    "mobModelName": "Modelattack_titan",
+    "mobModelName": "Modelbeast_titan",
     "mobModelTexture": "attacktitan.png",
     "mobModelGlowTexture": "",
     "modelWidth": 5.0,
     "modelHeight": 15.0,
     "modelShadowSize": 5.0,
-    "mountedYOffset": -0.1,
+    "mountedYOffset": 0.0,
     "hasSpawnEgg": true,
     "spawnEggBaseColor": {
       "value": -16711681,
