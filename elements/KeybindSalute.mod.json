@@ -1,0 +1,15 @@
+{
+  "_fv": 18,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "U",
+    "keyBindingName": "Keybind Salute",
+    "keyBindingCategoryKey": "aom",
+    "onKeyPressed": {
+      "name": "KeybindSaluteOnKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "KeybindSaluteOnKeyReleased"
+    }
+  }
+}
